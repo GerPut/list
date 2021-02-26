@@ -1,6 +1,4 @@
-if(localStorage.storedList){
-    loadList()
-}
+
 //Variables
 const submitSnake = document.getElementById("submitBtn")
 
